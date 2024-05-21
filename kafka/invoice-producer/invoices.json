@@ -1,0 +1,79 @@
+[
+    {
+        "invoice_id": "abc123",
+        "customer_id": "thanh",
+        "amount": 123.45,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "def789",
+        "customer_id": "linh",
+        "amount": 678.90,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "ghi456",
+        "customer_id": "thanh",
+        "amount": 234.56,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "jkl012",
+        "customer_id": "tuan",
+        "amount": 789.01,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "mno345",
+        "customer_id": "truong",
+        "amount": 345.67,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "pqr678",
+        "customer_id": "thanh",
+        "amount": 901.23,
+        "invoice_date": "2024-05-22",
+        "due_date,": "2024-06-22"
+    },
+    {
+        "invoice_id": "stu901",
+        "customer_id": "linh",
+        "amount": 456.78,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "vwx234",
+        "customer_id": "tuan",
+        "amount": 123.45,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "yza567",
+        "customer_id": "truong",
+        "amount": 678.90,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "bcd890",
+        "customer_id": "thanh",
+        "amount": 234.56,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    },
+    {
+        "invoice_id": "efg123",
+        "customer_id": "ngoc",
+        "amount": 789.01,
+        "invoice_date": "2024-05-22",
+        "due_date": "2024-06-22"
+    }
+]
